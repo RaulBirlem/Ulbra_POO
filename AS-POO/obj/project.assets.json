@@ -1719,11 +1719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dev\\Ulbra-PC\\2023.1\\Quarta - Pg Orientada a Objetos-C#\\-----------------AS-backup\\app-Teste - CHATGPT TESTE\\aula12_ef_test.csproj",
+      "projectUniqueName": "E:\\dev\\Ulbra-PC\\2023.1\\Quarta - Pg Orientada a Objetos-C#\\AS\\Ulbra_POO\\AS-POO\\aula12_ef_test.csproj",
       "projectName": "aula12_ef_test",
-      "projectPath": "E:\\dev\\Ulbra-PC\\2023.1\\Quarta - Pg Orientada a Objetos-C#\\-----------------AS-backup\\app-Teste - CHATGPT TESTE\\aula12_ef_test.csproj",
+      "projectPath": "E:\\dev\\Ulbra-PC\\2023.1\\Quarta - Pg Orientada a Objetos-C#\\AS\\Ulbra_POO\\AS-POO\\aula12_ef_test.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\dev\\Ulbra-PC\\2023.1\\Quarta - Pg Orientada a Objetos-C#\\-----------------AS-backup\\app-Teste - CHATGPT TESTE\\obj\\",
+      "outputPath": "E:\\dev\\Ulbra-PC\\2023.1\\Quarta - Pg Orientada a Objetos-C#\\AS\\Ulbra_POO\\AS-POO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

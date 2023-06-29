@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P9Cm7/Prgq3NijZPFkaBnXiNDfdQyREi/CnCzf1ol5ukkRxujA8LcFeof/91ACYDTkY+2TJGaNvkFr6HC7cIuw==",
+  "dgSpecHash": "0a35leNHhCBVvaZ3fRTgHcr6uuY+LidKvlhaThVDIlyKetUuShwjFNUmWN6gDLofCG7S8In+LZU0EWPy5B0q0Q==",
   "success": true,
-  "projectFilePath": "E:\\dev\\Ulbra-PC\\2023.1\\Quarta - Pg Orientada a Objetos-C#\\-----------------AS-backup\\app-Teste - CHATGPT TESTE\\aula12_ef_test.csproj",
+  "projectFilePath": "E:\\dev\\Ulbra-PC\\2023.1\\Quarta - Pg Orientada a Objetos-C#\\AS\\Ulbra_POO\\AS-POO\\aula12_ef_test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",

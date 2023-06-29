@@ -11,11 +11,6 @@ namespace aula12_ef_test.Data.Configurations
             builder.HasKey(a => a.Id);
                 
          
-
-            // Configurar outras propriedades, relacionamentos e restrições, se necessário
-            // Exemplo:
-            // builder.Property(a => a.Name).IsRequired().HasMaxLength(50);
-            // builder.HasMany(a => a.Books).WithOne(b => b.Author).HasForeignKey(b => b.AuthorId);
         }
     }
 
@@ -25,12 +20,6 @@ namespace aula12_ef_test.Data.Configurations
         {
             builder.HasKey(u => u.Id);
                 
-          
-
-            // Configurar outras propriedades, relacionamentos e restrições, se necessário
-            // Exemplo:
-            // builder.Property(u => u.Name).IsRequired().HasMaxLength(50);
-            // builder.HasMany(u => u.Books).WithOne(b => b.User).HasForeignKey(b => b.UserId);
         }
     }
 }
